@@ -1,0 +1,2 @@
+CairoSVG==2.7.1
+svg-turtle==0.4.2

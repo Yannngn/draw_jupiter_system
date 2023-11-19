@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Jupiter",
+    "diameter": 139820000,
+    "orbit": 778547200000,
+    "period": 374247821,
+    "rotation": 35280
+  },
+  {
+    "name": "Io",
+    "diameter": 3643200,
+    "orbit": 421700000,
+    "period": 152928,
+    "direction": 1
+  },
+  {
+    "name": "Europa",
+    "diameter": 3121600,
+    "orbit": 671034000,
+    "period": 306719,
+    "direction": -1
+  },
+  {
+    "name": "Ganymede",
+    "diameter": 5262400,
+    "orbit": 1070412000,
+    "period": 618624,
+    "direction": -1
+  },
+  {
+    "name": "Callisto",
+    "diameter": 4820600,
+    "orbit": 1882709000,
+    "period": 1442016,
+    "direction": -1
+  }
+]
